@@ -1,4 +1,4 @@
-### Greetings! I'm Jenny. 👋
+### Hey, I'm Jenny! 👋
 
 <!--
 **jennysys/jennysys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-W.I.P.
+**Currently Under Construction**
+
+
+I'm a college student who is getting into the world of code!
+
