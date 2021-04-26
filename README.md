@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 I'm a college student who is getting into the world of code!
 
-If you want to check out what games that I have worked on, here's the link!
+If you want to check out what games I have worked on, here's the link!
 
 >https://potatokitty.itch.io/
