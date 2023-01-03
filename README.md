@@ -1,4 +1,4 @@
-### Greetings, I'm Jenny!
+### Hi, I'm Jenny!
 
 <!--
 **jennysys/jennysys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
